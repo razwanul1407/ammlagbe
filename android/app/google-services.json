@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206044982853",
+    "project_id": "ammlagbe",
+    "storage_bucket": "ammlagbe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206044982853:android:ad54ecb896e91d134b7d2c",
+        "android_client_info": {
+          "package_name": "com.razwanul.ammlagbe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzNdq10q7jWAmlf6Z49sk2zrCC_qrjlZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

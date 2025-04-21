@@ -1,4 +1,4 @@
-package com.example.ammlagbe
+package com.razwanul.ammlagbe
 
 import io.flutter.embedding.android.FlutterActivity
 
